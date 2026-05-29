@@ -1,0 +1,145 @@
+React is a frontend library.
+
+FastAPI is used for Python backend APIs.
+
+Ollama runs local LLMs.
+
+ChromaDB stores vector embeddings.
+
+NovaTech Solutions is a multinational technology company founded in 2014.
+
+Headquarters:
+Bangalore, India
+
+Founder and CEO:
+Arjun Mehta
+
+Co-Founder and CTO:
+Sarah Kim
+
+Number of Employees:
+4,800 employees worldwide
+
+Company Valuation:
+2.4 billion USD
+
+Industry:
+Artificial Intelligence, Cloud Computing, Cybersecurity, and Enterprise Software
+
+Mission:
+To build scalable AI-powered solutions that improve business productivity and digital security.
+
+Major Products:
+
+1. NovaAI
+An enterprise AI assistant platform used by businesses for customer support automation and internal workflow management.
+
+2. SecureSphere
+A cybersecurity monitoring platform that detects real-time security threats using machine learning.
+
+3. CloudMatrix
+A cloud infrastructure management system designed for hybrid and multi-cloud environments.
+
+Office Locations:
+- Bangalore, India
+- Singapore
+- Berlin, Germany
+- Toronto, Canada
+- San Francisco, USA
+
+Departments:
+- Artificial Intelligence Research
+- Backend Engineering
+- Frontend Engineering
+- Cybersecurity
+- Cloud Infrastructure
+- Human Resources
+- Sales and Marketing
+- Customer Success
+
+Important Executives:
+
+Chief Financial Officer:
+Priya Nair
+
+Chief Operations Officer:
+Daniel Brooks
+
+VP of AI Research:
+Elena Petrova
+
+Director of Engineering:
+Rahul Verma
+
+Annual Revenue:
+620 million USD in 2025
+
+Major Clients:
+- FinEdge Bank
+- MedSys Healthcare
+- SkyLink Logistics
+- Orion Retail Group
+
+Technologies Used:
+- Python
+- FastAPI
+- React
+- Kubernetes
+- Docker
+- PostgreSQL
+- MongoDB
+- Redis
+
+Company History:
+
+2014:
+NovaTech Solutions was founded in Bangalore by Arjun Mehta and Sarah Kim.
+
+2016:
+The company launched its first SaaS product for workflow automation.
+
+2018:
+NovaTech expanded into cybersecurity solutions with the release of SecureSphere.
+
+2020:
+The company adopted remote-first engineering practices during the global pandemic.
+
+2022:
+NovaTech opened offices in Germany and Canada.
+
+2024:
+NovaAI reached over 1 million active enterprise users.
+
+Current Projects:
+- AI-powered code assistant
+- Autonomous cloud optimization platform
+- Real-time fraud detection system for banking clients
+
+Company Culture:
+NovaTech promotes remote work, flexible schedules, open-source contributions, and continuous learning programs for employees.
+
+Employee Benefits:
+- Health insurance
+- Remote work allowance
+- Learning and certification budgets
+- Annual international tech conference sponsorship
+- Mental wellness support
+
+Hiring Process:
+1. Online assessment
+2. Technical interview
+3. System design round
+4. HR discussion
+
+Internship Program:
+NovaTech offers internships in:
+- Full Stack Development
+- AI/ML Engineering
+- DevOps
+- Cybersecurity
+- UI/UX Design
+
+The internship duration is usually 3 to 6 months.
+
+Future Goals:
+NovaTech aims to become one of the top AI infrastructure companies in Asia by 2030.

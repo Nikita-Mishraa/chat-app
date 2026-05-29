@@ -6,6 +6,9 @@ __pycache__/
 # Node
 node_modules/
 
+# Vector DB
+chroma_db/
+
 # Environment
 .env
 
